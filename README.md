@@ -1,0 +1,1 @@
+This repository contains a COBOL program demonstrating a common but subtle error: incorrect handling of array indices. The program intends to populate a table with records, but an off-by-one error leads to unexpected behavior.  The solution showcases the correct approach to indexing arrays in COBOL.
